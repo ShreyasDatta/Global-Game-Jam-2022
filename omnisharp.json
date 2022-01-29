@@ -1,0 +1,6 @@
+{
+    "RoslynExtensionsOptions": {
+      "EnableAnalyzersSupport": true,
+      "LocationPaths": ["C:/Users/SHREYAS/Documents/Unity Projects/RythmTest/microsoft.unity.analyzers.1.9.0"]
+    }
+  }
