@@ -19,7 +19,7 @@
 ## General Information 
 - Submission for Global Game Jam 2022. [`Check it out`](https://globalgamejam.org/2022/games/global-game-jam-2022-8)
 
-- Read [GDD](Bugmania-GDD.pdf) for more info.
+- Read [GDD](GDD.docx) for more info.
 
 - Project made with `C#` on the `Unity` game engine, audio samples - `Cakewalk`. [Expanded on further](#technologies-used)
 
