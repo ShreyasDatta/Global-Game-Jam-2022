@@ -74,6 +74,7 @@ public class GameManager : MonoBehaviour
                 }
             
         }
+
     }
     public void NoteHit()
     {
@@ -144,4 +145,6 @@ public class GameManager : MonoBehaviour
 
         missedHits++;
     }
+
+    
 }
